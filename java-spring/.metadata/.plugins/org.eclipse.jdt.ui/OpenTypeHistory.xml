@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=spring-demo-one/src&lt;com.springdemo{FortuneService.java[FortuneService" modifiers="513" timestamp="1592557399666"/>
+<typeInfo handle="=spring-demo-one/src&lt;com.springdemo{Coach.java[Coach" modifiers="513" timestamp="1592557340217"/>
+<typeInfo handle="=web-customer-tracker/src&lt;com.springdemo.dao{CustomerDAO.java[CustomerDAO" modifiers="513" timestamp="1593684293625"/>
+<typeInfo handle="=web-customer-tracker/F:\/java-spring\/web-customer-tracker\/WebContent\/WEB-INF\/lib\/spring-web-5.2.7.RELEASE.jar&lt;org.springframework.http.codec(CodecConfigurer$CustomCodecs.class[CustomCodecs" modifiers="1545" timestamp="1593579683967"/>
+<typeInfo handle="=web-customer-tracker/src&lt;com.springdemo.service{CustomerService.java[CustomerService" modifiers="513" timestamp="1593684219238"/>
+<typeInfo handle="=LoginSpring/src&lt;com.hcl.spring.dao{UserDao.java[UserDao" modifiers="513" timestamp="1611488450254"/>
+</typeInfoHistroy>

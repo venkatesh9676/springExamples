@@ -1,0 +1,27 @@
+INDEX VERSION 1.130
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\526868014.index
+\SpringMVCPagination\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1636086613.index
+\SpringMVCCRUDSimple\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
+\spring-mvc-demo\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\270768230.index
+\LoginSpring\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1502067407.index
+\SpringMVCPagination\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3219230171.index
+\LoginSpring\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1265150595.index
+\SpringCURD\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2619134751.index
+\SpringMVCCRUDSimple\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\189941968.index
+\LoginSpring\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\757568093.index
+\Spring_Boot_Hibernate_Java_Config\src\main\java
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\185871768.index
+\web-customer-tracker\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261569207.index
+\web-customer-tracker\src
+F:\java-spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3284519515.index
+\SpringCURD\src\main\java

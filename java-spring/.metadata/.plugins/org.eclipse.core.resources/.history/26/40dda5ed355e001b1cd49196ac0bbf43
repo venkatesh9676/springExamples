@@ -1,0 +1,20 @@
+package com.hcl.spring.dao;
+
+import com.hcl.spring.model.Login;
+import com.hcl.spring.model.User;
+
+public class UserDaoImpl implements UserDao {
+
+	@Override
+	public void register(User user) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public User validateUser(Login login) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

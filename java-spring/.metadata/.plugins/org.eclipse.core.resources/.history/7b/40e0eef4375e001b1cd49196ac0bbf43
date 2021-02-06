@@ -1,0 +1,23 @@
+package com.hcl.spring.dao;
+
+import com.hcl.spring.model.Login;
+import com.hcl.spring.model.User;
+
+public class UserDaoImpl implements UserDao {
+
+	@Override
+	public void register(User user) {
+		String sql = "insert into users values(?,?,?,?,?,?,?)";
+	    jdbcTemplate.update(sql, new Object[] { user.getUsername(), user.getPassword(), user.getFirstname(),
+	    user.getLastname(), user.getEmail(), user.getAddress(), user.getPhone() });
+	  }
+
+	@Override
+	public User validateUser(Login login) {
+		String sql = "select * from users where username='" + login.getUsername() + "' and password='" + login.getPassword()
+	    + "'";
+	    List&lt;User&gt; users = jdbcTemplate.query(sql, new UserMapper());
+	    return users.size() &gt; 0 ? users.get(0) : null;
+	}
+
+}

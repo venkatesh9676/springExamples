@@ -1,0 +1,15 @@
+INDEX VERSION 1.130
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1321530066.index
+\spring-security-demo\src\main\java
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1261914991.index
+\spring-crm-rest-crm-web\src\main\java
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\204026118.index
+\mycoolwebApp\src\main\resources
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1600700352.index
+\spring-rest-demo\src\main\java
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4098858325.index
+\spring-crm-rest\src\main\java
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1514348238.index
+\spring-security-demo-02-basic-security\src\main\java
+F:\spring-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3862151852.index
+\spring-security-demo-01-base-app\src\main\java

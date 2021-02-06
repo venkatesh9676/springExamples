@@ -1,0 +1,5 @@
+package com.hcl.spring.service;
+
+public interface UserService {
+
+}
