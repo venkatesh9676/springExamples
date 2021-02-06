@@ -1,0 +1,18 @@
+package com.hcl.service;
+
+import com.hcl.model.Login;
+import com.hcl.model.User;
+
+public class UserServiceImpl implements UserService {
+
+	public int register(User user) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	public User validateUser(Login login) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

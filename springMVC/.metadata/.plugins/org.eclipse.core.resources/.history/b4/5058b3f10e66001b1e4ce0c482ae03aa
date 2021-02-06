@@ -1,0 +1,9 @@
+package com.example.springsecurity.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.example.springsecurity.model.User;
+
+public interface UserRepository extends CrudRepository<User, Long>{
+
+}
